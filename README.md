@@ -17,7 +17,7 @@
     *   **MySQL**: 用于存储用户信息、社团信息、活动信息等核心数据。
 *   **开发工具与环境**:
     *   **IDE**: IntelliJ IDEA (Java 开发)、VS Code (C语言开发)
-    *   **数据库管理工具**: Navicat / MySQL Workbench
+    *   **数据库管理工具**: Navicat
     *   **JDK 版本**: JDK 8 或以上
     *   **MySQL 版本**: MySQL 5.7 或以上
 
